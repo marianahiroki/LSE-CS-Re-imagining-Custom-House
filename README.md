@@ -32,11 +32,11 @@ This work and report is fully available at: https://csar.lse.ac.uk/articles/33
 
 ![image](https://github.com/marianahiroki/LSE-CS-Re-imagining-Custom-House/assets/110165879/001bc918-e780-4ebf-b2bc-f1c08946c7bf)
 
-<sub>Custom House has a long history of stigmatization, spanning from its industrial working-class past towards years of austerity measures that severed and segregated low-income communities from their neighbours. The socio-cultural narratives and beliefs that cause this social severity rely on stigma to justify their means. They are felt in varying degrees along axes of difference such as race, gender, and class and are directly reflected in income, employment, and crime (Fig. 8). Furthermore, high population turnover rates in Newham are a significant barrier to building strong social relationships within communities. Despite being a diverse borough, Hall(2012, p.72) reinforces that 'for people to be local in changing local worlds, ...they require a range of spaces to meet, to encounter differences, and to engage in informal memberships'. </sub>
+<sub>Custom House faces deep-rooted stigma stemming from its industrial past and subsequent socioeconomic challenges, causing varying social severities along race, gender, and class lines, reflected in income, employment, and crime rates. High population turnover in Newham hampers the formation of robust social bonds, despite the borough's diversity, highlighting the need for diverse spaces to foster connections and informal memberships for local residents. </sub>
 
 ![image](https://github.com/marianahiroki/LSE-CS-Re-imagining-Custom-House/assets/110165879/9681a436-264f-4d80-a3d7-7a1cdf7b49a8)
 
-<sub>While physical design interventions can bring major improvements to run-down and under-utilized spaces, there is the potential for these interventions to impact residents negatively in the form of gentrification. Area-based policies, even if well-intentioned, often drive land values ​​up and attract investment from external private actors. Either by substituting local businesses, increasing rents or erasing cultural symbols that bring communities together, urban interventions are likely to put affected neighborhoods in danger of displacement. This circumstance becomes even more acute in places such as Custom House, where more than two thirds of the residents do not own the houses they live in (Fig 14).</sub>
+<sub>Physical design improvements in neglected areas can trigger gentrification, increasing land values and inviting external investments, potentially displacing communities by replacing local businesses, raising rents, or erasing cultural symbols. This risk intensifies in places like Custom House, where a majority of residents are not homeowners, amplifying the threat of displacement due to urban interventions.</sub>
 
 ![image](https://github.com/marianahiroki/LSE-CS-Re-imagining-Custom-House/assets/110165879/198cb3be-b4cd-4fce-9e3e-09408cec3161)
 
@@ -74,19 +74,29 @@ This work and report is fully available at: https://csar.lse.ac.uk/articles/33
 **Geospatial Data**
 
 **Shapefiles**
+
 Department for Environment, Food and Rural Affairs. (2018). Noise pollution in London. [Online] Available at: https://data.london.gov.uk/dataset/noise-pollution-in-london (Accessed: 16
 February 2022)
+
 Greater London Authority (GLA). (2011). Allotment locations. [Online] Available at: https://data.london.gov.uk/dataset/allotment-locations (Accessed: 16 February 2022)
+
 Greater London Authority (GLA). (2012) Statistical GIS boundary files for london. [Online] Available at: https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london (Accessed: 16 February 2022)
+
 Greater London Authority (GLA). (2021). GLA high street boundaries. [Online] Available at: https://data.london.gov.uk/dataset/gla-high-street-boundaries (Accessed: 16 February 2022)
+
 Geofabrik. (2022) Compilation of geospatial data of the Greater London. [Online] Available at:https://download.geofabrik.de/europe/great-britain/england/greater-london.html (Accessed: 16 February 2022)
+
 Ministry of Housing, Communities and Local Government (MHCLG). (2019). Indices of multiple deprivation. MHCLG GIS Team. [Online] Available at: https://data-communities.opendata.arcgis.com/datasets/5e1c399d787e48c0902e5fe4fc1ccfe3/about (Accessed: 16 February
 2022)
 
 **Demographic Data**
+
 Office for National Statistics (ONS). (2020). Housing tenure by borough. [Online] Available at: https://data.london.gov.uk/dataset/housing-tenure-borough (Accessed: 16 February 2022)
+
 Public Health Profiles (PHp). (2015) Life expectancy. [Online] Available at: https://fingertips.phe.org.uk/search/life expectancy (Accessed: 16 February 2022)
+
 UK Census. (2011). 2011 census housing. [Online] Available at: https://data.london.gov.uk/dataset/2011-census-housing (Accessed: 16 February 2022)
 
 **Other**
+
 Mayor of London. (2022a). Map of Publicly Owned Land. [Online]. Available at: https://apps.london.gov.uk/public-land/ (Accessed 16 Feb 2022)
