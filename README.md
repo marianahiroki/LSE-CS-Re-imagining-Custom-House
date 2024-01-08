@@ -1,20 +1,25 @@
 # LSE-CS-Re-imagining-Custom-House
 Proposing a restorative approach for Custom House, addressing local challenges amidst urban development and advocating for community-centered solutions.
+This group project for the City Design Research Studio for LSE's MSC City Design and Social Science, 2022 was key to start my genuine interest in socio-spatial analysis.
+This work and report is fully available at: https://csar.lse.ac.uk/articles/33
 
 ## Introduction/Context: ##
 
-Briefly introduce the project's purpose and its significance.
-Explain the problem or opportunity that led to the project.
-Bullet points: 2-3 key points summarizing the context concisely.
+- The theme established for the project was Ecological Justice and the Newham Borough as the area of interest.
+- It was up to the group to choose a site of interest and thorough academic research, ethnography work, understand the nature and dynamics of cities while situating city design in its social, cultural, political and spatial context.
+- **Historical Context of Custom House:** Originating from industrial and residential expansions linked to Royal Victoria Docks, Custom House faced post-war challenges leading to poverty and deprivation, notably marked by the development of council estates.
+- **Delayed Regeneration Impact:** Despite existing regeneration plans for Custom House initiated by the Newham Council and private entities, the prolonged delay, spanning two decades, has instigated closures of local businesses due to rising rents and imminent demolition, impacting the area's social and economic landscape.
 
 ## Objectives: ##
 
-Detail the specific goals and objectives of the project.
-Outline what you aimed to achieve or resolve.
-Bullet points: 2-4 clear objectives to keep it focused.
+- **Socio-Spatial Analysis:** Emphasis on diverse methods for understanding sites, exploring procedural and formal intervention possibilities, encompassing spatial design models, city-making practices, and public/private actions.
+- **Addressing Social Challenges:** Exploring urban development approaches that tackle gender, ethnic diversity, and inequality issues, considering varied perspectives on city development.
+- **Intervention Strategies:** Strategies for intervention, delving into detailed approaches to address socio-spatial challenges identified earlier, aiming for more nuanced and comprehensive solutions.
+- **Comprehensive Approach to Urban Development:** Engaging with multifaceted aspects of city-making, from analysis to intervention, incorporating a wide array of approaches to ensure a holistic response to urban complexities.
 
 ## Data Collection and Analysis: ##
 
+- 
 Explain the sources of data and methods used for collection.
 Describe the data analysis techniques and tools applied.
 Highlight any challenges faced during data collection or analysis.
@@ -22,9 +27,11 @@ Bullet points: 3-5 key steps or aspects of data collection and analysis.
 
 ## Key Learnings/Insights: ##
 
-Present the main findings and insights derived from the data.
-Showcase any unexpected discoveries or patterns identified.
-Bullet points: 4-6 significant learnings to capture attention.
+- **Community Deprivation in Custom House:** Custom House faces prolonged neglect, leading to declining living conditions, inadequate public spaces, heightened pollution levels, and social infrastructure decay, resulting in the lowest healthy life expectancy rates in London.
+
+- **Restorative High Street Typology:** Proposing an alternative development approach, this work introduces the Restorative High Street Typology, aiming to mitigate urban severances by focusing on Freemasons Road and Prince Regent Lane as active community hubs, emphasizing retrofitting and refurbishing existing properties and implementing Affordable Community Infrastructure.
+
+- **Sustainable Urban Intervention:** The typology challenges traditional regeneration models by emphasizing retrofitting, refurbishing, and constructing additional floors to increase density while advocating for policy interventions like emissions taxes on polluting industries and intermodality transport schemes, presenting a replicable programme for a healthier urban core.
 
 ## Impact/Results: ##
 
